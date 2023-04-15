@@ -6,7 +6,7 @@ git clone: Clonar un repositorio remoto
 
 git pull: trae los cambios del remoto al local
 
-git checkout:
+git checkout: no modificar el remoto
 
 git log:
 
